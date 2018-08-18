@@ -1,0 +1,11 @@
+D:\Programs\Github Icon Maker\Github Icon Maker\bin\Debug\Github Icon Maker.exe.config
+D:\Programs\Github Icon Maker\Github Icon Maker\bin\Debug\Github Icon Maker.exe
+D:\Programs\Github Icon Maker\Github Icon Maker\bin\Debug\Github Icon Maker.pdb
+D:\Programs\Github Icon Maker\Github Icon Maker\obj\Debug\Github Icon Maker.csprojAssemblyReference.cache
+D:\Programs\Github Icon Maker\Github Icon Maker\obj\Debug\Github_Icon_Maker.Properties.Resources.resources
+D:\Programs\Github Icon Maker\Github Icon Maker\obj\Debug\Github Icon Maker.csproj.GenerateResource.cache
+D:\Programs\Github Icon Maker\Github Icon Maker\obj\Debug\Github Icon Maker.csproj.CoreCompileInputs.cache
+D:\Programs\Github Icon Maker\Github Icon Maker\obj\Debug\Github Icon Maker.exe
+D:\Programs\Github Icon Maker\Github Icon Maker\obj\Debug\Github Icon Maker.pdb
+D:\Programs\Github Icon Maker\Github Icon Maker\obj\Debug\Github_Icon_Maker.Generator.resources
+D:\Programs\Github Icon Maker\Github Icon Maker\obj\Debug\Github_Icon_Maker.Menu.resources
